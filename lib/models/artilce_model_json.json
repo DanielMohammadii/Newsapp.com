@@ -1,0 +1,17 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Sarah Ewall-Wice",
+        "title": "Treasury Secretary nominee Janet Yellen calls for \"big\" action at Senate confirmation hearing - CBS News",
+        "description": "Incoming Senate Finance Committee Chairman Ron Wyden said he hopes the full Senate can vote on Yellen's confirmation on Thursday.",
+        "url": "https://www.cbsnews.com/news/janet-yellen-treasury-secretary-senate-confirmation-01-19-2021/",
+        "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/18/29d3fb65-29c3-4805-a0e9-11f8a343dc14/thumbnail/1200x630g6/18403d924a901410cce0948456b89af3/gettyimages-1288887044.jpg",
+        "publishedAt": "2021-01-20T01:44:00Z",
+        "content": "Janet Yellen, President-elect Joe Biden's nominee for Treasury Secretary, called for \"big\" action on the COVID-19 pandemic and economic crisis at her Senate confirmation hearing Tuesday. The Senate h… [+3838 chars]"
+    }]
+}
